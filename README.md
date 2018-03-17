@@ -1,4 +1,3 @@
-#Arduino
 void setup(){
 pinMode(13,HIGH);
 }
